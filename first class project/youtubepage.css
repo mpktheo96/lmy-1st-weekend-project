@@ -1,0 +1,36 @@
+.logo {
+  width:100px;
+  height:100px;
+}
+  
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.sidebar-main-image {
+  display: flex;
+}
+.sidebar {
+  border: 1px solid black;
+  width: 200px;
+  height: 80vh;
+
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.underpictext {
+  display: flex;
+  text-align: center;
+  border: 10px solid grey;
+  margin-left: 150px;
+  margin-bottom: 150px;
+}
+
+.subscription {
+  
+  height: 5vh;
+}
